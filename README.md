@@ -4,7 +4,7 @@
 Explore the key topics involved in building a modern blockchain smart contracts execution environment and draft the requirements for a wasm-based compiler and runtime.
 
 ## TARGET AUDIENCE
-Technical people working on blockchain smart contracts project, or on out-of-browser WASM runtimes, compilers and dev tools
+Technical people working on blockchain smart contracts project, or on out-of-browser WASM runtimes, compilers and dev tools.
 
 ## GOALS
 - Better understand the challenges, opportunities and requirements for modern blockchain smart contracts execution
@@ -29,7 +29,7 @@ Workshop. Lightning talks following with a hands-on hacking session and a short 
 Full Node Blockchain co-working space Berlin.
 
 ## COST
-The event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event.
+The event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event. [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform)
 
 ## CALENDAR
 We have created for you packed two days with amazing talks and sessions. Check them out...

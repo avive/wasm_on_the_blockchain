@@ -33,7 +33,7 @@ The event is free as in free beer, but to keep the quality of attendees consiste
 
 ## CALENDAR
 We have created for you packed two days with amazing talks and sessions. Check them out...
-- [Detailed Daily Planner](#)
+- [Detailed Daily Planner](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZXNoLmlvXzRkNGxzdnJyZWVqcDZkMDR0bGhndXFmaTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ## CALL FOR SPEAKERS
 We have reserved few more slots for additional speakers. If you are working on an interesting wasm related blockchain project or on wasm core tech then we please [apply to speak](#).

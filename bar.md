@@ -7,3 +7,4 @@ WORKSHOP<br/>
 - [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform)
 - [Apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform)
 - [Agenda](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZXNoLmlvXzRkNGxzdnJyZWVqcDZkMDR0bGhndXFmaTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- [Chat](https://gitter.im/wasm-blockchain-2019-berlin/community)

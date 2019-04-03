@@ -39,3 +39,6 @@ We have created for you packed two days of amazing talks and hands-on sessions. 
 
 ## CALL FOR SPEAKERS
 We have reserved few more slots for additional speakers. If you are working on an interesting wasm related blockchain project or on wasm core tech then we please [apply to speak](#).
+
+## CONTACT US
+Workshop [Gitter chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community)

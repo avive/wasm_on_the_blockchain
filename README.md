@@ -9,6 +9,12 @@
 - Spark collaboration on common cross-project VM and dev workflows specs
 - Share learnings and resources between projects
 
+## CONFIRMED TALKS AND HANDS-ON HACKING SESSIONS
+- Wasmer.io: a wasm runtime for blockchains
+- Parity: Requirements for a wasm execution engine from blockchain perspective and the lightbeam wasm compiler
+- EWASM: project vision, status, plan and challenges
+- Mozilla: WASM beyond the browser and WASI
+
 ## TARGET AUDIENCE
 Technical people working on blockchain smart contracts projects or on WASM runtimes, compilers and dev tools.
 
@@ -19,11 +25,6 @@ Workshop. Lightning talks following with a hands-on hacking session and a short 
 - Team members from Parity, Wasmer.io, Ethereum/EWASM, Mozilla and Spacemesh
 - Lin Clark, Till Schneidereit, Dan Gohman, Syrus Akbary, Alex Beregszaszi, Lane Retin, Fredrik Harrysson, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
 
-## SELECTED SESSIONS
-- Wasmer.io: a wasm runtime for blockchains
-- Parity: Requirements for a wasm execution engine from blockchain perspective and the lightbeam wasm compiler
-- EWASM: project vision, status, plan and challenges
-- Mozilla: WASM beyond the browser and WASI - High level and Tech drill-down.
 
 ## COST
 This community event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event. Lunch, snacks, coffee and beer will be provided.
@@ -38,7 +39,7 @@ We have created for you packed two days of amazing talks and hands-on sessions. 
 [Full Node](https://www.fullnode.berlin/) Blockchain co-working space Berlin.
 
 ## CALL FOR SPEAKERS
-We have reserved few more slots for additional speakers. If you are working on an interesting wasm related blockchain project or on wasm core tech then we please [apply to speak](#).
+We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](#).
 
 ## CONTACT US
-Workshop [Gitter chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community)
+Workshop [Gitter chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community).

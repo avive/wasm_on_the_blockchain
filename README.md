@@ -27,15 +27,14 @@ Workshop. Lightning talks following with a hands-on hacking session and a short 
 - Mozilla: WASM beyond the browser and WASI - High level and Tech drill-down.
 
 ## COST
-This community event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event. [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform)
+This community event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event. Lunch, snacks, coffee and beer will be provided. [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform)
 
 ## AGENDA
 We have created for you packed two days of amazing talks and hands-on sessions.
 - [Workshop Calendar](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZXNoLmlvXzRkNGxzdnJyZWVqcDZkMDR0bGhndXFmaTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ## VENUE
-[Full Node] Blockchain co-working space Berlin.
-
+[Full Node](https://www.fullnode.berlin/) Blockchain co-working space Berlin.
 
 ## CALL FOR SPEAKERS
 We have reserved few more slots for additional speakers. If you are working on an interesting wasm related blockchain project or on wasm core tech then we please [apply to speak](#).

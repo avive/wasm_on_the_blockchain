@@ -1,5 +1,4 @@
 ![](media/logo.png)
-# Wasm on the Blockchain - Berlin 2019
 
 ## GOALS
 >Explore the key topics involved in building a modern blockchain smart contracts execution environment and draft the requirements for a wasm-based compiler and runtime.
@@ -27,11 +26,13 @@ Workshop. Lightning talks following with a hands-on hacking session and a short 
 - Mozilla: WASM beyond the browser and WASI - High level and Tech drill-down.
 
 ## COST
-This community event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event. Lunch, snacks, coffee and beer will be provided. [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform)
+This community event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event. Lunch, snacks, coffee and beer will be provided.
+
+## ATTENDING
+[Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform) space is limited to 50 people.
 
 ## AGENDA
-We have created for you packed two days of amazing talks and hands-on sessions.
-- [Workshop Calendar](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZXNoLmlvXzRkNGxzdnJyZWVqcDZkMDR0bGhndXFmaTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+We have created for you packed two days of amazing talks and hands-on sessions. Browse the [workshop cal](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZXNoLmlvXzRkNGxzdnJyZWVqcDZkMDR0bGhndXFmaTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details.
 
 ## VENUE
 [Full Node](https://www.fullnode.berlin/) Blockchain co-working space Berlin.

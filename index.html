@@ -2,20 +2,41 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Wasm on the blockchain Berlin 2019</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Wasm on the blockchain Berlin 2019">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css" disabled>
+  <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" disabled>
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Loading, please wait...</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'Wasm on the blockchain',
+      repo: 'https://github.com/avive/wasm_on_the_blockchain',
+      // logo: '/_media/icon.svg',
+      loadNavbar: false,
+      loadSidebar: 'bar.md',
+      coverpage: false,
+      executeScript: true,
+      themeable : {
+				// readyTransition : false,
+				// responsiveTables: false
+	           }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify-themeable"></script>
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <!-- <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script>
+((window.gitter = {}).chat = {}).options = {
+  room: 'wasm-barlin/room_id'
+};
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 </body>
 </html>

@@ -33,7 +33,12 @@ This community event is free as in free beer, but to keep the quality of attende
 [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform) space is limited to 50 people.
 
 ## AGENDA
-We have created for you packed two days of amazing talks and hands-on sessions. Browse the [workshop cal](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZXNoLmlvXzRkNGxzdnJyZWVqcDZkMDR0bGhndXFmaTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details.
+We have created for you packed two days of amazing talks and hands-on sessions.
+### Tentative Agenda
+![](media/agenda.png)
+
+
+Browse the [workshop cal](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZXNoLmlvXzRkNGxzdnJyZWVqcDZkMDR0bGhndXFmaTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details.
 
 ## VENUE
 [Full Node](https://www.fullnode.berlin/) Blockchain co-working space Berlin.

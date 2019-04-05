@@ -39,7 +39,7 @@ We have created for you packed two days of amazing talks and hands-on sessions. 
 [Full Node](https://www.fullnode.berlin/) Blockchain co-working space Berlin.
 
 ## CALL FOR SPEAKERS
-We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](#).
+We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform).
 
 ## CONTACT US
 Workshop [Gitter chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community).

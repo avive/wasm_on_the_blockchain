@@ -45,5 +45,5 @@ Browse the [workshop cal](https://calendar.google.com/calendar/b/1?cid=c3BhY2VtZ
 ## CALL FOR SPEAKERS
 We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform).
 
-## CONTACT US
-Workshop [Gitter chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community).
+## GET IN TOUCH
+This is a community event organized by people from Parity, 1kx, Ethereum, Mozilla, Full Node and Spacemesh. Get in touch with us here: [Gitter workshop chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community).

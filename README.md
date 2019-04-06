@@ -1,7 +1,7 @@
 ![](media/logo.png)
 
 ## GOALS
->Explore the key topics involved in building a modern blockchain smart contracts execution environment and draft the requirements for a wasm-based compiler and runtime.
+>Explore the key topics involved in building a modern blockchain smart contracts execution environment based on wasm technology.
 
 - Get together people from wasm community together with people working on modern blockchain smart contracts.
 - Better understand the challenges, opportunities and requirements for modern blockchain smart contracts execution

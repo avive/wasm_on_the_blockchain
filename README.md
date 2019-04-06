@@ -23,7 +23,7 @@ Workshop. Lightning talks following with a hands-on hacking session and a short 
 
 ## ATTENDEES (among others)
 - Team members from Parity, Wasmer.io, Ethereum/EWASM, Mozilla and Spacemesh
-- Lin Clark, Till Schneidereit, Dan Gohman, Syrus Akbary, Alex Beregszaszi, Lane Retin, Fredrik Harrysson, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
+- Lin Clark, Till Schneidereit, Dan Gohman, Syrus Akbary, Alex Beregszaszi, Lane Rettig, Fredrik Harrysson, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
 
 
 ## COST

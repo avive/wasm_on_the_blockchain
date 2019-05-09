@@ -40,7 +40,7 @@ Browse the [full schedule](https://docs.google.com/spreadsheets/d/1HEsKdtzDHz_Gy
 [Full Node](https://www.fullnode.berlin/) Blockchain co-working space Berlin.
 
 ## CALL FOR SPEAKERS
-We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform).
+Thank you all applicants - the schedule is now packed with talks and workshops and submission is now closed.
 
 ## GET IN TOUCH
 This is a community event organized by people from Parity, 1kx, Ethereum, Mozilla, Full Node and Spacemesh. Get in touch with us here: [Gitter workshop chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community).
